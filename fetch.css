@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+}
+#search-input {
+    width: 470px !important;
+    height: 25px;
+}
+.main {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+    height: 30px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+tr {
+    color: aliceblue;
+}
+th {
+  color: white;
+}
+input[type="text"] {
+  margin-right: 8px;
+}
